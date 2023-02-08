@@ -4,14 +4,13 @@ Application that scrapes the following website url https://wltest.dns-systems.ne
 
 
 
-
 ## Installation
 
 Install the Dependincies listed below, this is done using the 'npm install' command.
 
-Once these Dependencies are installed, Clone the repository.
+Clone the repository and make sure the Dependencies are installed.
 
-
+To run the application use 'npm start' in the terminal.
 
     
 ## Dependencies
